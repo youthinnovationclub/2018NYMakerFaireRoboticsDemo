@@ -3,7 +3,7 @@ Robotics Demo Project for 2018 New York MakerFaire
 
 The robot we use is mBot (by MakeBlock) and Lego Mindstorm EV3, and we build four projects.
 
-1. Julia Xu --- pet food feeder (by Lego Mindstorm EV3)
+1. Julia Sun --- pet food feeder (by Lego Mindstorm EV3)
 
 2. Connor Chang--- sound control mBot (by mBot)
 
